@@ -15,4 +15,5 @@ module.exports = [
     "tr@nny",
     "retard",
     "r3tard",
+    "dyke"
 ]
